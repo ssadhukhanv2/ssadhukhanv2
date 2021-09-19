@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subhrajit Sadhukhan (Aka @ssadhukhanv2)
-- 👀 I’m interested in Java, Object Oriented Design Patters, Microservices and Cloud Platforms
-- 🌱 I’m currently learning Microservices & Java
+- 👀 I’m interested in Java, Microservices and Cloud Platforms
+- 🌱 I’m currently learning more about Microservices & Object Oriented Design Patters
 - 💞️ I haven't figured out yet what I want to collaborate on but please feel to drop me an email if you have any suggestions
 - 📫 Contact me at ssadhukhanv2.0@gmail.com
 
