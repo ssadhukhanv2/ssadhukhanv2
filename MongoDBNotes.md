@@ -6,7 +6,7 @@
 * Storage Engine
 * CRUD operations
 * Aggregations and many more.
-* [`JSON Format - overview`](#json-format-overview)
+* [JSON Format - overview](#json-format-overview)
 
 ### **Intro**
 **MongoDB** is a leading NoSQL, classified as a **document-oriented** database. The word MongoDB is *originated from humongous, meaning huge.*
@@ -24,7 +24,8 @@ The general observations of NoSQL are:
 + Open-source.
 + Mostly used in Big data and Real-time web+ applications.
 
-### **Commonly used Data Structures in NoSQL**
+### **Commonly used Data Structures in NoSQL** 
+### My Great Heading {#json-format-overview}
 + Document
     + [MongoDB](https://docs.mongodb.com/manual/)
     + [Couchbase](https://docs.couchbase.com/server/current/introduction/why-couchbase.html)
@@ -57,9 +58,9 @@ Some of the commonly used Document Databases are [MongoDB](https://docs.mongodb.
 
 + **Fast querying** - Document databases have *strong query engines* and *indexing features* that provides fast and efficient retrieval of data.
 
-+ **Faster write performance** - Document databases *prioritize write availability over strict data consistency*. 
++ **Faster write performance** [^1] - Document databases *prioritize write availability over strict data consistency*. 
 
-Go through the below articles & questions:
+[^1]: Go through the below articles & questions:
 + [CAP Theorm](https://www.ibm.com/za-en/cloud/learn/cap-theorem)
 + [Where does mongodb stand in the CAP theorem?](https://stackoverflow.com/questions/11292215/where-does-mongodb-stand-in-the-cap-theorem)
 
