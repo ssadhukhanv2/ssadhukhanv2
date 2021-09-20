@@ -6,7 +6,7 @@
 * Storage Engine
 * CRUD operations
 * Aggregations and many more.
-* [JSON Format - overview](#json-format-overview)
+* [`JSON Format - overview`](#json-format-overview)
 
 ### **Intro**
 **MongoDB** is a leading NoSQL, classified as a **document-oriented** database. The word MongoDB is *originated from humongous, meaning huge.*
@@ -25,7 +25,6 @@ The general observations of NoSQL are:
 + Mostly used in Big data and Real-time web+ applications.
 
 ### **Commonly used Data Structures in NoSQL** 
-### My Great Heading {#json-format-overview}
 + Document
     + [MongoDB](https://docs.mongodb.com/manual/)
     + [Couchbase](https://docs.couchbase.com/server/current/introduction/why-couchbase.html)
@@ -65,7 +64,7 @@ Go through the below articles & questions:
 + [Where does mongodb stand in the CAP theorem?](https://stackoverflow.com/questions/11292215/where-does-mongodb-stand-in-the-cap-theorem)
 
 
-## JSON Format - overview
+## JSON Format - overview <span id="#json-format-overview"/>
 + JSON is *JavaScript Object Notation*. It is an alternative to XML, primarily to transmit data.
 + The two primary parts of JSON are keys and values.
     + **Key** - A key is a string enclosed with quotation marks.
