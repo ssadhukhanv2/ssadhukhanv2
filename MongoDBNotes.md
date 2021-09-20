@@ -6,7 +6,7 @@
 * Storage Engine
 * CRUD operations
 * Aggregations and many more.
-* [JSON Format - overview](#json-format-overview)
+* [`JSON Format - overview`](#json-format-overview)
 
 ### **Intro**
 **MongoDB** is a leading NoSQL, classified as a **document-oriented** database. The word MongoDB is *originated from humongous, meaning huge.*
@@ -24,7 +24,7 @@ The general observations of NoSQL are:
 + Open-source.
 + Mostly used in Big data and Real-time web+ applications.
 
-### **Commonly used Data Structures in NoSQL** {#json-format-overview}
+### **Commonly used Data Structures in NoSQL**
 + Document
     + [MongoDB](https://docs.mongodb.com/manual/)
     + [Couchbase](https://docs.couchbase.com/server/current/introduction/why-couchbase.html)
