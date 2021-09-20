@@ -6,7 +6,8 @@
 * Storage Engine
 * CRUD operations
 * Aggregations and many more.
-	
+* [JSON Format - overview](#json-format-overview)
+
 ### **Intro**
 **MongoDB** is a leading NoSQL, classified as a **document-oriented** database. The word MongoDB is *originated from humongous, meaning huge.*
 * MongoDB is written in **C++ language.**
@@ -71,7 +72,7 @@ Go through the below articles & questions:
 
 Key/Value Pair: A key followed by a colon (:) and a value is a key/value pair.
 
->'''
+```
 {
 	'_id': 1234,
 	'fullname': {
@@ -87,7 +88,7 @@ Key/Value Pair: A key followed by a colon (:) and a value is a key/value pair.
 		'year': 2011
 	}]
 }
-'''
+```
 
 
 ## BSON - an Overview
@@ -98,13 +99,13 @@ BSON is *bin­ary-en­coded seri­al­iz­a­tion of JSON*.
 
 **Example** - Suppose we have a document that contains {"Study":"MongoDB"}. It will be stored in BSON format as shown below:
 
-'''
-> \x32\x00\x00\x00     //document size
+```
+\x32\x00\x00\x00     //document size
 \x06                 //String Types
 Study\x00            //name of field 
 \x16\x00\x00\x00MongoDB\x00  //value 
 \x00                   // Ending 
-'''
+```
 
 
 ## BSON Characteristics
@@ -113,7 +114,7 @@ Study\x00            //name of field
 
 
 ## MongoDB Use Cases
-+ where very minimal Total Cost of Ownership (TCO) is required.
++ where very minimal *Total Cost of Ownership (TCO)* is required.
 + when a need for replication across multiple data centers globally.
 + where rapid deployment and faster scaling are required.
 + when a need for easy loading of data at the beginning and overtime is needed.
